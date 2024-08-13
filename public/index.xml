@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archie</title>
-    <link>http://localhost:33055/archie/</link>
-    <description>Recent content on Archie</description>
+    <title>Materia for Days</title>
+    <link>http://localhost:1313/archie/</link>
+    <description>Recent content on Materia for Days</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© Athul</copyright>
-    <atom:link href="http://localhost:33055/archie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Feb 2024 07:07:07 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/archie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second post</title>
+      <link>http://localhost:1313/archie/posts/second/</link>
+      <pubDate>Wed, 14 Feb 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/archie/posts/second/</guid>
+      <description></description>
+    </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:33055/archie/posts/first/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:33055/archie/posts/first/</guid>
+      <link>http://localhost:1313/archie/posts/first/</link>
+      <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
+      <guid>http://localhost:1313/archie/posts/first/</guid>
       <description>Hey what&amp;rsquo;s this 1234</description>
     </item>
   </channel>
