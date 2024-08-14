@@ -1,25 +1,32 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Materia for Days</title>
-    <link>http://localhost:1313/archie/</link>
-    <description>Recent content on Materia for Days</description>
+    <title>phishing for compliments</title>
+    <link>http://localhost:37355/materiafordays/</link>
+    <description>Recent content on phishing for compliments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 14 Feb 2024 07:07:07 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/archie/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Aug 2024 21:03:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:37355/materiafordays/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>If on a winter&#39;s night a traveller</title>
+      <link>http://localhost:37355/materiafordays/posts/calvino/</link>
+      <pubDate>Wed, 14 Aug 2024 21:03:50 +0100</pubDate>
+      <guid>http://localhost:37355/materiafordays/posts/calvino/</guid>
+      <description>You&amp;rsquo;re about to begin reading name&amp;rsquo;s new post, if on a winter&amp;rsquo;s night a traveller. Relax. Concentrate. Dispel every other thought. Let the world around you fade.&#xA;I didn&amp;rsquo;t want to anger the narrator so I did exactly this.&#xA;In reflection this was the perfect introduction to the book -&#xA;The Incipit&#xA;The Ideas&#xA;The translator The twin writers Why do we read&#xA;The blurring of layers of storytelling</description>
+    </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:1313/archie/posts/second/</link>
+      <link>http://localhost:37355/materiafordays/posts/second/</link>
       <pubDate>Wed, 14 Feb 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/archie/posts/second/</guid>
+      <guid>http://localhost:37355/materiafordays/posts/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/archie/posts/first/</link>
+      <link>http://localhost:37355/materiafordays/posts/first/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/archie/posts/first/</guid>
+      <guid>http://localhost:37355/materiafordays/posts/first/</guid>
       <description>Hey what&amp;rsquo;s this 1234</description>
     </item>
   </channel>
