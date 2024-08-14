@@ -1,6 +1,6 @@
-baseURL = "https://athul.github.io/archie/"
+baseURL = "https://patrickaldis.github.io/materiafordays/"
 languageCode = "en-us"
-title = "Materia for Days"
+title = "phishing for compliments"
 theme="archie"
 # Code Highlight
 pygmentsstyle = "monokai"
