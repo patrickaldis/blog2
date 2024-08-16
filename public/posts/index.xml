@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on phishing for compliments</title>
-    <link>http://localhost:37355/materiafordays/posts/</link>
+    <link>http://localhost:1313/materiafordays/posts/</link>
     <description>Recent content in Posts on phishing for compliments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 21:03:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:37355/materiafordays/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/materiafordays/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Calvino</title>
-      <link>http://localhost:37355/materiafordays/posts/calvino/</link>
+      <title>If on a winter&#39;s night a traveller</title>
+      <link>http://localhost:1313/materiafordays/posts/calvino/</link>
       <pubDate>Wed, 14 Aug 2024 21:03:50 +0100</pubDate>
-      <guid>http://localhost:37355/materiafordays/posts/calvino/</guid>
-      <description></description>
+      <guid>http://localhost:1313/materiafordays/posts/calvino/</guid>
+      <description>You are about to begin reading the latest post on phishing for compliments, If on a winter&amp;rsquo;s night a traveller. Relax. Concentrate. Dispel every other thought. Let the world around you fade.&#xA;This book changed how I think about reading and writing, and show&amp;rsquo;s how personal&#xA;Ideas Not only did calvino manage to say something about the nature of reading and writing, he also manages to create various situations and characters that tickle my brain the right way.</description>
     </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:37355/materiafordays/posts/second/</link>
+      <link>http://localhost:1313/materiafordays/posts/second/</link>
       <pubDate>Wed, 14 Feb 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:37355/materiafordays/posts/second/</guid>
+      <guid>http://localhost:1313/materiafordays/posts/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:37355/materiafordays/posts/first/</link>
+      <link>http://localhost:1313/materiafordays/posts/first/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:37355/materiafordays/posts/first/</guid>
+      <guid>http://localhost:1313/materiafordays/posts/first/</guid>
       <description>Hey what&amp;rsquo;s this 1234</description>
     </item>
   </channel>
