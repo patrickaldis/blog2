@@ -7,7 +7,7 @@ pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
-disqusShortname = "materiafordays"
+# disqusShortname = "materiafordays"
 
 paginate=3 # articles per page
 

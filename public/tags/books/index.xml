@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on phishing for compliments</title>
-    <link>http://localhost:1313/materiafordays/tags/books/</link>
+    <link>http://localhost:37355/materiafordays/tags/books/</link>
     <description>Recent content in Books on phishing for compliments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 21:03:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/materiafordays/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37355/materiafordays/tags/books/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>If on a winter&#39;s night a traveller</title>
-      <link>http://localhost:1313/materiafordays/posts/calvino/</link>
+      <link>http://localhost:37355/materiafordays/posts/calvino/</link>
       <pubDate>Wed, 14 Aug 2024 21:03:50 +0100</pubDate>
-      <guid>http://localhost:1313/materiafordays/posts/calvino/</guid>
-      <description>You are about to begin reading the latest post on phishing for compliments, If on a winter&amp;rsquo;s night a traveller. Relax. Concentrate. Dispel every other thought. Let the world around you fade.&#xA;This book changed how I think about reading and writing, and show&amp;rsquo;s how personal&#xA;Ideas Not only did calvino manage to say something about the nature of reading and writing, he also manages to create various situations and characters that tickle my brain the right way.</description>
+      <guid>http://localhost:37355/materiafordays/posts/calvino/</guid>
+      <description>You are about to begin reading the latest post on phishing for compliments, titled If on a winter&amp;rsquo;s night a traveller. Relax. Concentrate. Dispel every other thought. Let the world around you fade.&#xA;This book is written like no other book I&amp;rsquo;ve read. Calvino writes almost entirely in second person, putting thoughts and concepts in your head and giving a commentary as you read about you reading. Whats awesome is this weird perspective allows him to say things about the process - he can create a story about you reading; from how the words on the page slowly give you more information about the surroundings; to how the author has been intentionally vague, leaving your mind to fill in the gaps.</description>
     </item>
     <item>
       <title>Second post</title>
-      <link>http://localhost:1313/materiafordays/posts/second/</link>
+      <link>http://localhost:37355/materiafordays/posts/second/</link>
       <pubDate>Wed, 14 Feb 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/materiafordays/posts/second/</guid>
+      <guid>http://localhost:37355/materiafordays/posts/second/</guid>
       <description></description>
     </item>
     <item>
       <title>First post</title>
-      <link>http://localhost:1313/materiafordays/posts/first/</link>
+      <link>http://localhost:37355/materiafordays/posts/first/</link>
       <pubDate>Sun, 14 Jan 2024 07:07:07 +0100</pubDate>
-      <guid>http://localhost:1313/materiafordays/posts/first/</guid>
+      <guid>http://localhost:37355/materiafordays/posts/first/</guid>
       <description>Hey what&amp;rsquo;s this 1234</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on phishing for compliments</title>
-    <link>http://localhost:1313/materiafordays/tags/</link>
+    <link>http://localhost:37355/materiafordays/tags/</link>
     <description>Recent content in Tags on phishing for compliments</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 14 Aug 2024 21:03:50 +0100</lastBuildDate>
-    <atom:link href="http://localhost:1313/materiafordays/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:37355/materiafordays/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Books</title>
-      <link>http://localhost:1313/materiafordays/tags/books/</link>
+      <link>http://localhost:37355/materiafordays/tags/books/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/materiafordays/tags/books/</guid>
+      <guid>http://localhost:37355/materiafordays/tags/books/</guid>
       <description></description>
     </item>
   </channel>
