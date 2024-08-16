@@ -1,6 +1,6 @@
 ---
 title: "If on a winter's night a traveller"
-description: ""
+description: "I love meta books"
 date: 2024-08-14T21:03:50+01:00
 draft: false
 tags: [books]
