@@ -7,7 +7,7 @@ tags: [books]
 ---
 > You are about to begin reading the latest post on `phishing for compliments`, titled *If on a winter's night a traveller*. Relax. Concentrate. Dispel every other thought. Let the world around you fade.
 
-This book is written like no other book I've read. Calvino writes almost entirely in second person, putting thoughts and concepts in your head and giving a commentary as you read about you reading. Whats awesome is this weird perspective allows him to say things about the process - he can create a story about you reading; from how the words on the page slowly give you more information about the surroundings; to how the author has been intentionally vague, leaving your mind to fill in the gaps. You're then taken on a weird dive into books within books, all the while forgetting that you're reading about you reading them. The lines between reader and read begin to blur and it tells a great story.
+Calvino writes almost entirely in second person, putting thoughts and concepts in your head and giving a commentary as you read about you reading. Whats awesome is this weird perspective allows him to say things about the process - he can create a story about you reading; from how the words on the page slowly give you more information about the surroundings; to how the author has been intentionally vague, leaving your mind to fill in the gaps. You're then taken on a weird dive into books within books, all the while forgetting that you're reading about you reading them. The lines between reader and read begin to blur and it tells a great story.
 
 # Ideas
 Not only did calvino manage to say something about the nature of reading and writing, he also manages to create various situations and characters that tickle my brain the right way.
