@@ -7,7 +7,7 @@ tags: [books]
 ---
 > You are about to begin reading the latest post on `phishing for compliments`, titled *If on a winter's night a traveller*. Relax. Concentrate. Dispel every other thought. Let the world around you fade.
 
-Calvino writes almost entirely in second person, putting thoughts and concepts in your head and giving a commentary as you read about you reading. Whats awesome is this weird perspective allows him to say things about the process - he can create a story about you reading; from how the words on the page slowly give you more information about the surroundings; to how the author has been intentionally vague, leaving your mind to fill in the gaps. You're then taken on a weird dive into books within books, all the while forgetting that you're reading about you reading them. The lines between reader and read begin to blur and it tells a great story.
+Calvino writes almost entirely in second person, putting thoughts and concepts in your head and giving a commentary as you read about you reading. Whats awesome is this weird perspective allows him to say things about the process -- he can create a story about you reading; from how the words on the page slowly give you more information about the surroundings; to how the author has been intentionally vague, leaving your mind to fill in the gaps. You're then taken on a weird dive into books within books, all the while forgetting that you're reading about you reading them. The lines between reader and read begin to blur and it tells a great story.
 
 # Ideas
 Not only did calvino manage to say something about the nature of reading and writing, he also manages to create various situations and characters that tickle my brain the right way.
@@ -24,4 +24,4 @@ Apparently there is genshin lore based off this, [here](https://www.reddit.com/r
 I love the idea that there's a wise indian dude out there who utters every story ever. Flannery's story about the two writers also slaps. 
 
 # Warning
-As my first blog post I'm still finding out what I want to say. I wasn't sure whether I wanted to do a more detailed analysis or whether this would be too boring to write. I settled on just writing about the points I would talk about with others. I also read the English translation by Brace Jovanovich. This could have been an entirely different book.
+It's my first blog post. I'm still finding out what I want to say. I wasn't sure whether I wanted to do a more detailed analysis or whether this would be too boring to write -- I settled on just writing about the points I would talk about with others. I also read the English translation by Brace Jovanovich. This could have been an entirely different book.
